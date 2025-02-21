@@ -17,7 +17,6 @@ public class CanPlaceFlower{
                 }
             }
             }
-           
         }
         return count >= n;
         
