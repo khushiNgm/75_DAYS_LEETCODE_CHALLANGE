@@ -1,3 +1,5 @@
+//DAY 01 -> QUESTION 02
+
 import java.util.*;
 public class KidsGreatestNumberofCandies{
 
@@ -22,7 +24,6 @@ public class KidsGreatestNumberofCandies{
 
         // Print the result
         System.out.println(result);
-
 
     }
 }

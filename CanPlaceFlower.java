@@ -1,4 +1,4 @@
-//Day 02 
+//Day 02 ->QUESTION 01
 
 import java.util.*;
 public class CanPlaceFlower{
